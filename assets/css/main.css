@@ -1,10 +1,17 @@
 @import url(fontawesome-all.min.css);
 @import url("https://fonts.googleapis.com/css?family=Roboto:400,700");
 
+<<<<<<< HEAD
 /*
 	Lens by HTML5 UP
 	html5up.net | @ajlkn
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+=======
+/*
+	Lens by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+>>>>>>> 59e6f4e6cb14db7b47718cd36d3a4107047bd3aa
 */
 
 html, body, div, span, applet, object,
@@ -74,10 +81,17 @@ input, select, textarea {
 
 /* Basic */
 
+<<<<<<< HEAD
 	/*
 			@-ms-viewport {
 				width: device-width;
 			}
+=======
+	/*
+			@-ms-viewport {
+				width: device-width;
+			}
+>>>>>>> 59e6f4e6cb14db7b47718cd36d3a4107047bd3aa
 		*/
 
 	@media screen and (max-width: 480px) {
